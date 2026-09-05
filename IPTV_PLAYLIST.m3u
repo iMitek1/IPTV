@@ -1,0 +1,120 @@
+#EXTM3U
+#PLAYLIST:Pyshok
+
+#EXTINF:-1 tvg-logo="https://azecsuwvwypwnkgobujn.supabase.co/storage/v1/object/public/avatars/company-logos/f407765d-954e-4863-8ad8-afdabc5f1589.png" group-title="Эфирные",Первый канал
+http://dmi3y-tv.online/hls/DVB-T2/CH_1TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://ostogramm.ru/uploads/monthly_2026_03/russia1.jpg.55fea166ee537b8794214ba12206546e.jpg" group-title="Эфирные",Россия 1
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6465-6138-4266-a135-376361656530/Group_76.png" group-title="Эфирные",НТВ
+http://dmi3y-tv.online/hls/DVB-T2/CH_NTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://kurganobl.ru/sites/default/files/imceFiles/user-03/2019-07-27_01.jpg" group-title="Эфирные",Россия 24
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA24.m3u8
+
+#EXTINF:-1 tvg-logo="https://easynet24.ru/wp-content/uploads/2019/06/46.jpg" group-title="Эфирные",Пятый канал
+http://dmi3y-tv.online/hls/DVB-T2/CH_5TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://ostogramm.ru/uploads/monthly_2026_03/russia-k.png.8e4735520845226c1e0085fda9ca1d01.png" group-title="Эфирные",Россия К
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIAK.m3u8
+
+#EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/otr.png" group-title="Эфирные",ОТР
+http://dmi3y-tv.online/hls/DVB-T2/CH_OTR.m3u8
+
+#EXTINF:-1 group-title="Эфирные",Домашний
+http://dmi3y-tv.online/hls/DVB-T2/CH_DOMASHNIY.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ТВ 3
+http://dmi3y-tv.online/hls/DVB-T2/CH_TV3.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ТВЦ
+http://dmi3y-tv.online/hls/DVB-T2/CH_TVC.m3u8
+
+#EXTINF:-1 group-title="Эфирные",РЕН ТВ
+http://dmi3y-tv.online/hls/DVB-T2/CH_RENTV.m3u8
+
+#EXTINF:-1 group-title="Эфирные",Спас
+http://dmi3y-tv.online/hls/DVB-T2/CH_SPAS.m3u8
+
+#EXTINF:-1 group-title="Эфирные",СТС
+http://dmi3y-tv.online/hls/DVB-T2/CH_STS.m3u8
+
+#EXTINF:-1 group-title="Эфирные",Звезда
+http://dmi3y-tv.online/hls/DVB-T2/CH_ZVEZDA.m3u8
+
+#EXTINF:-1 group-title="Эфирные",МИР
+http://dmi3y-tv.online/hls/DVB-T2/CH_MIR.m3u8
+
+#EXTINF:-1 group-title="Эфирные",Че
+http://dmi3y-tv.online/hls/zabava/CH_CHE.m3u8
+
+#EXTINF:-1 group-title="Эфирные",Ю
+http://dmi3y-tv.online/hls/zabava/CH_U.m3u8
+
+#EXTINF:-1 group-title="Эфирные",МУЗ ТВ
+http://dmi3y-tv.online/hls/DVB-T2/CH_MUZTV.m3u8
+
+#EXTINF:-1 group-title="Эфирные",Пятница
+http://dmi3y-tv.online/hls/DVB-T2/CH_FRIDAY.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ТНТ
+http://dmi3y-tv.online/hls/DVB-T2/CH_TNT.m3u8
+
+#EXTINF:-1 group-title="Избранное",Суббота!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000006365.png" group-title="Избранное",Золотая  коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+
+#EXTINF:-1 group-title="Избранное",Дом Кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Избранное",Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+
+#EXTINF:-1 group-title="Избранное",Родное Кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Эфирные",СТС Love
+http://dmi3y-tv.online/hls/zabava/CH_STSLOVE.m3u8
+
+#EXTINF:-1 group-title="Эфирные",2x2
+http://dmi3y-tv.online/hls/zabava/CH_2X2.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ТНТ4
+http://dmi3y-tv.online/hls/zabava/CH_TNT4.m3u8
+
+#EXTINF:-1 group-title="Эфирные",Русский Роман
+http://dmi3y-tv.online/hls/CH_RUSSKIY_ROMAN.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ТВ1000
+http://dmi3y-tv.online/hls/CH_TV1000HD.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ТВ1000 Action
+http://dmi3y-tv.online/hls/CH_TV1000ACTIONHD.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ТВ1000 Русское
+http://dmi3y-tv.online/hls/CH_TV1000RUSSKOEKINOHD.m3u8
+
+#EXTINF:-1 group-title="Эфирные",Кинопоказ
+http://dmi3y-tv.online/hls/CH_KINOPOKAZ.m3u8
+
+#EXTINF:-1 group-title="Региональные",Волгоград 1
+http://dmi3y-tv.online/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
+
+#EXTINF:-1 group-title="Региональные",Волгоград 24
+http://dmi3y-tv.online/hls/zabava/region/VGRAD/CH_VOLGOGRAD24HD.m3u8
+
+#EXTINF:-1 group-title="Региональные",МТВ (Волгоград)
+http://dmi3y-tv.online/hls/region/CH_MTVHD720_VGRAD.m3u8
+
+#EXTINF:-1 group-title="Региональные",Москва 24
+http://dmi3y-tv.online/hls/zabava/region/MOS/CH_MOSKVA24.m3u8
+
+#EXTINF:-1 group-title="Региональные",Сочи24
+http://dmi3y-tv.online/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
+
+#EXTINF:-1 group-title="Региональные",Sochi Live
+http://dmi3y-tv.online/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
+
