@@ -44,7 +44,7 @@ http://dmi3y-tv.online/hls/DVB-T2/CH_STS.m3u8
 http://dmi3y-tv.online/hls/DVB-T2/CH_ZVEZDA.m3u8
 
 #EXTINF:-1 group-title="Эфирные",МИР
-http://dmi3y-tv.online/hls/DVB-T2/CH_MIR.m3u8
+https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8
 
 #EXTINF:-1 group-title="Эфирные",Че
 http://dmi3y-tv.online/hls/zabava/CH_CHE.m3u8
