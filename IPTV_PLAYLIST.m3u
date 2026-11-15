@@ -68,7 +68,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000006365.png" group-title="Избранное",Золотая  коллекция
-http://192.168.30.254:4022/udp/233.33.221.101:5040
+http://185.121.1.163:8083/Mosfilm/index.m3u8
 
 #EXTINF:-1 group-title="Избранное",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
