@@ -68,7 +68,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000006365.png" group-title="Избранное",Золотая  коллекция
-https://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6
+https://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
 
 #EXTINF:-1 group-title="Избранное",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
