@@ -68,7 +68,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000006365.png" group-title="Избранное",Золотая  коллекция
-http://178.134.1.158:8081/mosfilm/index.m3u8
+https://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6
 
 #EXTINF:-1 group-title="Избранное",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
@@ -120,4 +120,3 @@ http://dmi3y-tv.online/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
 
 #EXTINF:-1 group-title="Региональные",Sochi Live
 http://dmi3y-tv.online/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
-
